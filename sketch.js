@@ -11,7 +11,7 @@ hm = loadImage("over st.png")
 }
 
 function setup() {
- createCanvas(1200,500)
+ createCanvas(1400,800)
   over = createSprite(1000,250)
   over.addImage(hm)
   over.scale=0.4
@@ -98,5 +98,5 @@ function draw() {
              glass.scale =0.5
 
   }
-
+text("BYE",1100,450)
 }
