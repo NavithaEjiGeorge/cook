@@ -100,7 +100,7 @@ function draw() {
   }
 textSize(18)
 text("BYE",1300,400)
-text(" Hope you liked my cindrella game ",1300,600)
-text("by : Navitha Eji George",1000,400)
+text(" Hope you liked my cindrella game ",900,600)
+text("by : Navitha Eji George",900,400)
  
 }
